@@ -1,0 +1,60 @@
+body{
+    /* background-color:#DAAD86; */
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(218, 173, 134,1) 0%, rgba(139,171,164,1) 51%, rgba(45,168,199,1) 100%);
+
+}
+
+#btn-arr{
+    color:#DAAD86;
+}
+
+#btn-bubble{
+    color:#DAAD86;
+}
+#btn-select{
+    color:#DAAD86;
+}
+#btn-insert{
+    color:#DAAD86;
+}
+#btn-quick{
+    color:#DAAD86;
+}
+#btn-merge{
+    color:#DAAD86;
+}
+
+.btn-default{
+ 
+background-color: #659DBD;
+color:#FFF;
+border-color: #659DBD;
+margin-left: 10px;
+ 
+}
+.btn-default:hover{
+    background-color: blue;
+}
+
+.style {
+    background-color: blue;
+}
+/* 
+#range{
+   pass 
+} */
+
+#graph-visual{
+
+    height:1px;
+    /* width: 490px; */
+    /* min-width: 490px; */
+    border: 1px;
+    border: solid;
+   
+}
+
+#arr_sz{
+    transform: rotate(180);
+}
